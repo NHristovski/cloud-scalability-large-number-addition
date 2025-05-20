@@ -1,0 +1,71 @@
+Started at: 2025-05-17T18:56:25.403556+02:00[Europe/Paris]
+Next 10_000_000_000 numbers were adeed, sum now is 50000000005000000000 current number is: 10000000001
+2025-05-17T18:58:40.101631+02:00[Europe/Paris] -> Application running for 2.25 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 200000000010000000000 current number is: 20000000001
+2025-05-17T19:01:18.095241+02:00[Europe/Paris] -> Application running for 4.88 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 450000000015000000000 current number is: 30000000001
+2025-05-17T19:04:00.907590+02:00[Europe/Paris] -> Application running for 7.58 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 800000000020000000000 current number is: 40000000001
+2025-05-17T19:06:44.181626+02:00[Europe/Paris] -> Application running for 10.32 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 1250000000025000000000 current number is: 50000000001
+2025-05-17T19:09:27.160111+02:00[Europe/Paris] -> Application running for 13.03 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 1800000000030000000000 current number is: 60000000001
+2025-05-17T19:12:07.632713+02:00[Europe/Paris] -> Application running for 15.70 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 2450000000035000000000 current number is: 70000000001
+2025-05-17T19:14:44.025348+02:00[Europe/Paris] -> Application running for 18.32 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 3200000000040000000000 current number is: 80000000001
+2025-05-17T19:17:23.386042+02:00[Europe/Paris] -> Application running for 20.97 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 4050000000045000000000 current number is: 90000000001
+2025-05-17T19:20:00.961621+02:00[Europe/Paris] -> Application running for 23.58 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 5000000000050000000000 current number is: 100000000001
+2025-05-17T19:22:39.838114+02:00[Europe/Paris] -> Application running for 26.23 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 6050000000055000000000 current number is: 110000000001
+2025-05-17T19:25:22.375292+02:00[Europe/Paris] -> Application running for 28.95 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 7200000000060000000000 current number is: 120000000001
+2025-05-17T19:28:05.053924+02:00[Europe/Paris] -> Application running for 31.67 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 8450000000065000000000 current number is: 130000000001
+2025-05-17T19:30:42.518584+02:00[Europe/Paris] -> Application running for 34.28 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 9800000000070000000000 current number is: 140000000001
+2025-05-17T19:33:20.098401+02:00[Europe/Paris] -> Application running for 36.92 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 11250000000075000000000 current number is: 150000000001
+2025-05-17T19:35:57.816960+02:00[Europe/Paris] -> Application running for 39.53 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 12800000000080000000000 current number is: 160000000001
+2025-05-17T19:38:36.986545+02:00[Europe/Paris] -> Application running for 42.18 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 14450000000085000000000 current number is: 170000000001
+2025-05-17T19:41:18.341409+02:00[Europe/Paris] -> Application running for 44.88 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 16200000000090000000000 current number is: 180000000001
+2025-05-17T19:43:59.995794+02:00[Europe/Paris] -> Application running for 47.57 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 18050000000095000000000 current number is: 190000000001
+2025-05-17T19:46:42.947911+02:00[Europe/Paris] -> Application running for 50.28 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 20000000000100000000000 current number is: 200000000001
+2025-05-17T19:49:21.143733+02:00[Europe/Paris] -> Application running for 52.93 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 22050000000105000000000 current number is: 210000000001
+2025-05-17T19:52:01.140673+02:00[Europe/Paris] -> Application running for 55.60 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 24200000000110000000000 current number is: 220000000001
+2025-05-17T19:54:49.417658+02:00[Europe/Paris] -> Application running for 58.40 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 26450000000115000000000 current number is: 230000000001
+2025-05-17T19:57:29.334707+02:00[Europe/Paris] -> Application running for 61.07 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 28800000000120000000000 current number is: 240000000001
+2025-05-17T20:00:06.673419+02:00[Europe/Paris] -> Application running for 63.68 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 31250000000125000000000 current number is: 250000000001
+2025-05-17T20:02:47.390944+02:00[Europe/Paris] -> Application running for 66.37 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 33800000000130000000000 current number is: 260000000001
+2025-05-17T20:05:27.934768+02:00[Europe/Paris] -> Application running for 69.03 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 36450000000135000000000 current number is: 270000000001
+2025-05-17T20:08:08.775769+02:00[Europe/Paris] -> Application running for 71.72 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 39200000000140000000000 current number is: 280000000001
+2025-05-17T20:10:47.067974+02:00[Europe/Paris] -> Application running for 74.37 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 42050000000145000000000 current number is: 290000000001
+2025-05-17T20:13:26.425344+02:00[Europe/Paris] -> Application running for 77.02 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 45000000000150000000000 current number is: 300000000001
+2025-05-17T20:16:06.643500+02:00[Europe/Paris] -> Application running for 79.68 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 48050000000155000000000 current number is: 310000000001
+2025-05-17T20:18:46.554278+02:00[Europe/Paris] -> Application running for 82.35 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 51200000000160000000000 current number is: 320000000001
+2025-05-17T20:21:28.245998+02:00[Europe/Paris] -> Application running for 85.05 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 54450000000165000000000 current number is: 330000000001
+2025-05-17T20:24:07.832434+02:00[Europe/Paris] -> Application running for 87.70 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 57800000000170000000000 current number is: 340000000001
+2025-05-17T20:26:47.426829+02:00[Europe/Paris] -> Application running for 90.37 minutes
+Next 10_000_000_000 numbers were adeed, sum now is 61250000000175000000000 current number is: 350000000001
+2025-05-17T20:29:26.763157+02:00[Europe/Paris] -> Application running for 93.02 minutes
